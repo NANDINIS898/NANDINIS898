@@ -6,9 +6,10 @@
 ### 🔧 My Tech Stack:
 - 🧠 AI/ML: TensorFlow, Hugging Face, LangChain, LLaMA-3, Prompt Engineering, RAG
 - 📊 Data Tools: Pandas, NumPy, Matplotlib, EDA, Model Evaluation
+- Languages : Python, C, C++ , Javascript, HTML, CSS, SQL
 - 🌐 Full Stack: ReactJS, Node.js, Express, Streamlit
-- 📂 Databases: MySQL, PostgreSQL, ChromaDB
-- 📄 Tools: Git, GitHub, PyPDFLoader, Ollama
+- 📂 Databases: MySQL, PostgreSQL
+- 📄 Tools: Git, GitHub, PyPDFLoader, Ollama, ChromaDB
 
 ### 🚀 Featured Projects
 - [InsightCV](https://github.com/NANDINIS898/InsightCV) – GenAI-powered resume fit analyzer  
