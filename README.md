@@ -19,4 +19,4 @@
 🏆 3× Hackathon winner • President at E-Cell MSIT • Tata–Forage GenAI Graduate
 
 📫 Reach me at: nandinis898@gmail.com  
-🌐 Portfolio: https://mypersonalportoflio.netlify.app/
+🌐 Portfolio: https://viewprojectportfolio.netlify.app/
