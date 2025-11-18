@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Nandini Gangwar
+### AI/ML & GenAI Developer | Building AI Agents & Automation Systems | Full-Stack + API Integration
 
-🎓 B.Tech (ECE) | AI/ML Developer | GenAI Enthusiast  
-🔍 Exploring the intersection of data science, LLMs, and real-world problem solving.
+Exploring intersection of **real-world AI tools**, integrating **LLMs, RAG, agents**, and connecting them to **full-stack systems** using React, Node.js, REST APIs, and Python.
 
 ### 🔧 My Tech Stack:
 - 🧠 AI/ML: TensorFlow, Hugging Face, LangChain, LLaMA-3, Prompt Engineering, RAG
 - 📊 Data Tools: Pandas, NumPy, Matplotlib, EDA, Model Evaluation
 - Languages : Python, C, C++ , Javascript, HTML, CSS, SQL
-- 🌐 Full Stack: ReactJS, Node.js, Express, Streamlit
+- 🌐 Full Stack: ReactJS, Node.js, Express, REST APIs Streamlit
 - 📂 Databases: MySQL, PostgreSQL
 - 📄 Tools: Git, GitHub, PyPDFLoader, Ollama, ChromaDB
 
@@ -18,5 +18,13 @@
 
 🏆 3× Hackathon winner • President at E-Cell MSIT • Tata–Forage GenAI Graduate
 
+## 📈 GitHub Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NandiniSingh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniSingh&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NandiniSingh&theme=radical)
+
 📫 Reach me at: nandinis898@gmail.com  
 🌐 Portfolio: https://viewprojectportfolio.netlify.app/
+### 🔗 **LeetCode Profile:**  
+👉 https://leetcode.com/u/nandiiinigangwar/
