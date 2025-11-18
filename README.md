@@ -18,11 +18,6 @@ Exploring intersection of **real-world AI tools**, integrating **LLMs, RAG, agen
 
 🏆 3× Hackathon winner • President at E-Cell MSIT • Tata–Forage GenAI Graduate
 
-## 📈 GitHub Stats & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NandiniSingh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniSingh&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NandiniSingh&theme=radical)
 
 📫 Reach me at: nandinis898@gmail.com  
 🌐 Portfolio: https://viewprojectportfolio.netlify.app/
