@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nandini Gangwar
-I am an **AI Systems Engineer in the making**, focused on building **Agentic AI systems, GenAI applications, and production-ready ML products**.
+I am a third year Btech student, focused on building **Agentic AI systems, GenAI applications, and production-ready ML products**.
 
 ### 🔧 My Tech Stack:
 **💻 Programming Languages:** Python, C++, JavaScript, SQL
