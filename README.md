@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Nandini Gangwar
-### AI/ML & GenAI Developer | Building AI Agents & Automation Systems | Full-Stack + API Integration
-
-Exploring intersection of **real-world AI tools**, integrating **LLMs, RAG, agents**, and connecting them to **full-stack systems** using React, Node.js, REST APIs, and Python.
+I am an **AI Systems Engineer in the making**, focused on building **Agentic AI systems, GenAI applications, and production-ready ML products**.
 
 ### 🔧 My Tech Stack:
 - 🧠 AI/ML: TensorFlow, Hugging Face, LangChain, LLaMA-3, Prompt Engineering, RAG
@@ -11,10 +9,50 @@ Exploring intersection of **real-world AI tools**, integrating **LLMs, RAG, agen
 - 📂 Databases: MySQL, PostgreSQL
 - 📄 Tools: Git, GitHub, PyPDFLoader, Ollama, ChromaDB
 
+  ## 🎯 Focus Areas
+  End-to-end AI systems 
+- ⚡ Production-ready GenAI applications
+- 🧩 Multi-agent architectures
+- Agentic AI systems (multi-agent workflows)
+- AI product engineering (end-to-end deployment)
+- Scalable backend systems for AI apps
+- Automation systems for real-world workflows
+
+---
 ### 🚀 Featured Projects
-- [InsightCV](https://github.com/NANDINIS898/InsightCV) – GenAI-powered resume fit analyzer  
-- [EventEase Bot](https://github.com/NANDINIS898/event-ease-bot) – AI chatbot for event planning using LLMs + PDFs  
-- [Movie Mate](https://github.com/NANDINIS898/my-movie-mate) – Genre-based movie recommender web app
+### 🏦 Saarthi: AI Loan Assistance System w/ decision intelligence and risk prediction
+An intelligent **multi-agent AI system** designed to simplify and automate loan-related processes.
+
+**Highlights:**
+- Multi-agent pipeline:
+  - Document understanding agent
+  - Eligibility classification agent
+  - Recommendation agent
+- Video-based onboarding system for users
+- Smart loan guidance using GenAI reasoning
+- Scalable backend architecture for real-time processing
+
+🔗 GitHub Repo: [Saarthi](https://github.com/nandinis898/Saarthi)
+
+---
+
+### 📩 PryoPort - Priority Detection Engine 
+An AI-powered system that ensures users **never miss important emails or tasks**.
+
+**Highlights:**
+- LLM-based semantic email understanding
+- Priority classification engine (Urgent / Important / Normal)
+- Multi-agent system:
+  - Urgency Detection Agent
+  - Classification Agent
+  - Summarization Agent
+- Gmail API integration with OAuth authentication
+- React-based dashboard for priority inbox visualization
+- Hybrid system: AI + manual user tagging
+
+🔗 GitHub Repo: [PryoPort](https://github.com/NANDINIS898/pryport)
+
+---
 
 🏆 3× Hackathon winner • President at E-Cell MSIT • Tata–Forage GenAI Graduate
 
