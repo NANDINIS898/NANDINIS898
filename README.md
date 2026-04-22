@@ -18,8 +18,8 @@ I am an **AI Systems Engineer in the making**, focused on building **Agentic AI 
 - Automation systems for real-world workflows
 
 ---
-### 🚀 Featured Projects
-### 🏦 Saarthi: AI Loan Assistance System w/ decision intelligence and risk prediction
+###  Featured Projects
+### Saarthi: AI Loan Assistance System w/ decision intelligence and risk prediction
 An intelligent **multi-agent AI system** designed to simplify and automate loan-related processes.
 
 **Highlights:**
@@ -35,7 +35,7 @@ An intelligent **multi-agent AI system** designed to simplify and automate loan-
 
 ---
 
-### 📩 PryoPort - Priority Detection Engine 
+### PryoPort - Priority Detection Engine 
 An AI-powered system that ensures users **never miss important emails or tasks**.
 
 **Highlights:**
