@@ -49,7 +49,7 @@ An AI-powered system that ensures users **never miss important emails or tasks**
 - React-based dashboard for priority inbox visualization
 - Hybrid system: AI + manual user tagging
 
-🔗 GitHub Repo: [PryoPort](https://github.com/NANDINIS898/pryport)
+🔗 GitHub Repo: [PryoPort](https://github.com/NANDINIS898/pryoport)
 
 ---
 ## Vision
