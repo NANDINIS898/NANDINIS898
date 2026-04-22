@@ -53,9 +53,18 @@ An AI-powered system that ensures users **never miss important emails or tasks**
 🔗 GitHub Repo: [PryoPort](https://github.com/NANDINIS898/pryport)
 
 ---
+## Vision
+To become a **Production AI Systems Engineer** building scalable, intelligent, agent-driven systems that automate human workflows.
+
+---
 
 🏆 3× Hackathon winner • President at E-Cell MSIT • Tata–Forage GenAI Graduate
 
+## Open to:
+- GenAI / Agentic AI collaborations
+- Hackathons
+- AI system design projects
+- Open-source contributions
 
 📫 Reach me at: nandinis898@gmail.com  
 🌐 Portfolio: https://viewprojectportfolio.netlify.app/
