@@ -2,12 +2,11 @@
 I am an **AI Systems Engineer in the making**, focused on building **Agentic AI systems, GenAI applications, and production-ready ML products**.
 
 ### 🔧 My Tech Stack:
-- 🧠 AI/ML: TensorFlow, Hugging Face, LangChain, LLaMA-3, Prompt Engineering, RAG
-- 📊 Data Tools: Pandas, NumPy, Matplotlib, EDA, Model Evaluation
-- Languages : Python, C, C++ , Javascript, HTML, CSS, SQL
-- 🌐 Full Stack: ReactJS, Node.js, Express, REST APIs Streamlit
-- 📂 Databases: MySQL, PostgreSQL
-- 📄 Tools: Git, GitHub, PyPDFLoader, Ollama, ChromaDB
+**💻 Programming Languages:** Python, C++, JavaScript, SQL
+**🤖 AI / ML & GenAI:** TensorFlow, Scikit-learn, XGBoost, LangChain, CrewAI, LangSmith, RAG Systems, SHAP
+**⚙️ Frameworks & Full Stack:** ReactJS, Node.js, Express.js, FastAPI, REST APIs, Streamlit
+**🗄️ Databases:** MySQL, PostgreSQL, ChromaDB, SQLite
+**🧠Tools & Infra:** PyPDFLoader, Git, GitHub, GitLab
 
   ## 🎯 Focus Areas
   End-to-end AI systems 
