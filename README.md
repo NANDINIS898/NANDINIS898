@@ -54,7 +54,7 @@ An AI-powered system that ensures users **never miss important emails or tasks**
 - its a self learning system, that learns through user actions and clicks
 - Hybrid system: AI + manual user tagging
 
-🔗 GitHub Repo: [PryoPort](https://github.com/NANDINIS898/pryoport)
+🔗 Live Demo: [PryoPort](https://pryoport-frontend.vercel.app/)
 
 ---
 ## Vision
