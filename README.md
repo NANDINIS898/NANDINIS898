@@ -36,7 +36,7 @@ An intelligent **multi-agent AI system** designed to simplify and automate loan-
 ---
 
 ### PryoPort - Priority Detection Engine 
-An AI-powered system that ensures users **never miss important emails or tasks**.Built to increase productivity, gives personalized notificationf whenever a urgent/ important mail arrives.
+An AI-powered system that ensures users **never miss important emails or tasks**. Built to increase productivity, gives personalized notifications whenever a urgent/ important mail arrives.
 
 **Highlights:**
 - LLM-based semantic email understanding
