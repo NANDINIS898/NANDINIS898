@@ -31,7 +31,7 @@ An intelligent **multi-agent AI system** designed to simplify and automate loan-
 - Smart loan guidance using GenAI reasoning
 - Scalable backend architecture for real-time processing
 
-🔗 GitHub Repo: [Saarthi](https://github.com/nandinis898/Saarthi)
+🔗 GitHub Repo: [Saarthi](https://github.com/nandinis898/saarthi-main)
 
 ---
 
