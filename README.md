@@ -20,16 +20,10 @@ I am a third year Btech student, focused on building **Agentic AI systems, GenAI
 ---
 ###  Featured Projects
 ### Saarthi: AI Loan Assistance System w/ decision intelligence and risk prediction
-An intelligent **multi-agent AI system** designed to simplify and automate loan-related processes.
+Saarthi replaces paper-and-form loan applications with a 5-minute conversational experience.
 
 **Highlights:**
-- Multi-agent pipeline:
-  - Document understanding agent
-  - Eligibility classification agent
-  - Recommendation agent
-- Video-based onboarding system for users
-- Smart loan guidance using GenAI reasoning
-- Scalable backend architecture for real-time processing
+
 
 🔗 GitHub Repo: [Saarthi](https://github.com/nandinis898/saarthi-main)
 
