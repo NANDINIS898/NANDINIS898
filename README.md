@@ -20,15 +20,10 @@ I am a third year Btech student, focused on building **Agentic AI systems, GenAI
 ---
 ###  Featured Projects
 ### Saarthi: AI Loan Assistance System w/ decision intelligence and risk prediction
-Saarthi replaces paper-and-form loan applications with a 5-minute conversational experience.
-
-**Highlights:**
-
-
+Saarthi replaces paper-and-form loan applications with a 5-minute conversational experience: a live video KYC session, an XGBoost risk model with SHAP explainability, and a multi-agent layer that negotiates the offer and issues the sanction letter, all guided by a voice-driven AI assistant.
 🔗 GitHub Repo: [Saarthi](https://github.com/nandinis898/saarthi-main)
 
 ---
-
 ### PryoPort - Priority Detection Engine 
 An AI-powered system that ensures users **never miss important emails or tasks**. Built to increase productivity, gives personalized notifications whenever a urgent/ important mail arrives.
 
@@ -53,7 +48,6 @@ An AI-powered system that ensures users **never miss important emails or tasks**
 ---
 ## Vision
 To become a **Production AI Systems Engineer** building scalable, intelligent, agent-driven systems that automate human workflows.
-
 ---
 
 🏆 3× Hackathon winner • President at E-Cell MSIT • Tata–Forage GenAI Graduate
